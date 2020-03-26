@@ -74,8 +74,8 @@ body {
 }
 #COL2 {
     background-color: rgb(65, 0, 0);
-    height: 50px;
-    width: 15%;
+    height: auto;
+    width: auto;
     box-shadow: 12px 11px 15px black;
     margin: auto;
 }
