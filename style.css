@@ -1,26 +1,41 @@
 body { 
-    background-image: url(199388.jpg);
+    background-image: url(fond-code-binaire-technologie-abstraite_34629-592.jpg);
     background-attachment: fixed;
 }
 #T1 {
-    color: red;
+    color: fuchsia;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    background-color: black;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
 }
 #L1 {
-    color: crimson;
+    color: fuchsia;
     text-align: center;
+    text-decoration: underline;
     font-size: 200%;
+    background-color: black;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
 }
 #L2 {
-    color: darkturquoise;
-    text-align: center;
-    font-style: italic;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    font-weight: bold;
+    text-decoration: underline;
     font-size: 150%;
 }
 #COL1 {
-    background-color: rgb(190, 15, 15);
+    background-color: rgb(65, 0, 0);
     height: 70px;
     width: 20%;
     box-shadow: 12px 11px 0px black;
+    text-align: center;
+}
+#BOX1 {
+    color: gold;
+
 }
