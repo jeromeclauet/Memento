@@ -18,3 +18,9 @@ body {
     font-style: italic;
     font-size: 150%;
 }
+#COL1 {
+    background-color: rgb(190, 15, 15);
+    height: 70px;
+    width: 20%;
+    box-shadow: 12px 11px 0px black;
+}
