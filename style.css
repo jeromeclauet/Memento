@@ -207,8 +207,39 @@ body {
     text-decoration: underline;
     padding-top: 130px;
     margin-left: 250px;
+    float: left;
 }
 #L17 {
+    color: white;
+    font-size: 100%;
+    padding-top: 50px;
+    margin: auto;
+}
+#L18 {
+    color: white;
+    font-size: 200%;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-top: 130px;
+    margin-left: 250px;
+    float: left;
+}
+#L19 {
+    color: white;
+    font-size: 100%;
+    padding-top: 50px;
+    margin: auto;
+}
+#L20 {
+    color: white;
+    font-size: 200%;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-top: 130px;
+    margin-left: 250px;
+    float: left;
+}
+#L21 {
     color: white;
     font-size: 100%;
     padding-top: 50px;
