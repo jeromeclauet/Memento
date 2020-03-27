@@ -1,6 +1,6 @@
 body { 
     background-image: url(fond-code-binaire-technologie-abstraite_34629-592.jpg);
-    background-attachment: fixed;
+    background-attachment: scroll;
 }
 #T1 {
     color: fuchsia;
@@ -198,5 +198,19 @@ body {
     height: 150px;
     width: 100%;
     box-shadow: 12px 11px 15px black;
+    margin: auto;
+}
+#L16 {
+    color: white;
+    font-size: 200%;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-top: 130px;
+    margin-left: 250px;
+}
+#L17 {
+    color: white;
+    font-size: 100%;
+    padding-top: 50px;
     margin: auto;
 }
