@@ -28,7 +28,8 @@ body {
     text-decoration: underline;
     font-size: 150%;
 }
-#COL1 {
+.COL1 {
+    margin-bottom: 100px;
     background-color: rgb(65, 0, 0);
     height: 50px;
     width: 15%;
@@ -36,7 +37,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-#BOX1 {
+.BOX1 {
     color: gold;
     text-align: center;
     margin: 20px;
@@ -72,18 +73,19 @@ body {
     width: 25%;
     float: left;
 }
-#COL2 {
+.COL2 {
+    margin-bottom: 100px;
     background-color: rgb(65, 0, 0);
-    height: auto;
-    width: auto;
+    height: 50px;
+    width: 15%;
     box-shadow: 12px 11px 15px black;
     margin: auto;
 }
-#BOX2 {
+.BOX2 {
     color: gold;
     text-align: center;
     margin: 20px;
     padding: 15px;
     font-weight: bold;
-    font-size: 100%;
+    font-size: 20%;
 }
